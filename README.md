@@ -1,0 +1,2 @@
+# TestSimpleSSHFromWork
+test only
